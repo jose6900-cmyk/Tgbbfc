@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Comedy Central@SD" tvg-logo="https://i.imgur.com/MzUQtrl.png" group-title="General",Ràdio Bocairent TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="Comedy Central@SD" tvg-logo="https://i.imgur.com/MzUQtrl.png" group-title="General",comedy central
 http://40.160.24.56/COMEDY_CENTRAL_SD/index.m3u8
 #EXTINF:-1 tvg-id="RiberaTV.es@SD" tvg-logo="https://i.imgur.com/mPvSubP.png" group-title="General",Ribera TV (576p)
 https://common01.todostreaming.es/live/ribera-livestream.m3u8
